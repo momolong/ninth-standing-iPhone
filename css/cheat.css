@@ -1,0 +1,17 @@
+
+.cheat{padding:10%;z-index:999;width:100%;height:100%;overflow:hidden;background:url("../img/101712weczwr3usm7gnagn.jpg");box-shadow: 0px 0px 20px rgba(255, 255, 255, 0.9) inset;border:2px solid #fff;border-radius: 10px;}
+.cheat>textarea{color:#fff;padding:10px;box-shadow: 0px 0px 20px rgba(255, 255, 255, 0.9) inset;border:2px solid #fff;border-radius:10px;background: none;width:100%; height:20%; }
+.cheat>p{padding:10px; width:100%;}
+.cheat>p>input{height:40px;margin:0 10px 0 0;width:45%;color:#fff;box-shadow: 0px 0px 20px rgba(255, 255, 255, 0.9) inset;border:2px solid #fff;border-radius:10px;background: none;line-height: 25px;}
+.cheat>.cheat-ul{height:180px;}
+.cheat>.cheat-ul>li{overflow: hidden;text-align:left;margin:10px 0 0 0;color:#fff;padding:10px;box-shadow: 0px 0px 20px rgba(255, 255, 255, 0.9) inset;border:2px solid #fff;border-radius:10px;width:100%;height:50px;}
+.cheat>.cheat-ul>li>i{font-style:normal;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;width:150px;display: inline-block;}
+.cheat>.cheat-ul>li>input{float:right;color:#fff;background:none;width:45px;box-shadow: 0px 0px 20px rgba(255, 255, 255, 0.9) inset;border:2px solid #fff;border-radius: 10px;}
+
+.scol{overflow-y: scroll;height:70%;}
+.scol li{overflow: hidden;text-align:left;margin:10px 2px 0 0;color:#fff;padding:10px;box-shadow: 0px 0px 20px rgba(255, 255, 255, 0.9) inset;border:2px solid #fff;border-radius:10px;height:50px;width:98%;}
+.scol::-webkit-scrollbar,.scol::-webkit-scrollbar-thumb {width:18px;box-shadow: 0px 0px 20px rgba(255, 255, 255, 0.9) inset;border:2px solid #fff;border-radius: 10px;}
+.scol>li>i{font-style:normal;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;width:130px;display: inline-block;}
+.scol>li>input{float:right;color:#fff;background:none;width:45px;box-shadow: 0px 0px 20px rgba(255, 255, 255, 0.9) inset;border:2px solid #fff;border-radius: 10px;}
+
+input:hover{box-shadow: none;}
